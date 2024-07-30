@@ -1,6 +1,5 @@
 matplotlib
 numpy
 pandas
-pickle
 requests
 streamlit
